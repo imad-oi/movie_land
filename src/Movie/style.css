@@ -1,0 +1,7 @@
+
+#movie:hover{
+    box-shadow: currentColor;
+    width: 19em ; 
+    border: 2px solid green;
+
+}
